@@ -20,8 +20,7 @@ recommended actions: [`docs/05_business_recommendations.md`](docs/05_business_re
 ## Dashboard
 
 ![Dashboard preview](dashboard_preview.png)
-*(Export your Dashboard sheet as a PNG — File → Export, or a screenshot cropped to just the
-dashboard — save it as `dashboard_preview.png` in the repo root so this image renders on GitHub.)*
+
 
 ## Repo structure
 
@@ -43,7 +42,7 @@ docs/           Every methodology decision, documented
 
 ## Stack (Stage 1 of 4)
 
-Excel · Power Query · PivotTables · Slicers & Timelines · Conditional Formatting
+Excel · VBA (Macros) · Power Query · PivotTables · Slicers & Timelines · Conditional Formatting
 
 SQL, Python, and Power BI versions of this same analysis are in progress.
 
