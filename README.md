@@ -27,7 +27,7 @@ dashboard — save it as `dashboard_preview.png` in the repo root so this image 
 
 ```
 data/raw/       Immutable source data + the script that generated it
-excel/          Finished workbook — airline_ontime_dashboard.xlsx
+excel/          Finished workbook — AirlineOTP_Dashboard.xlsm
 docs/           Every methodology decision, documented
 ```
 
