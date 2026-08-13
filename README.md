@@ -49,4 +49,4 @@ SQL, Python, and Power BI versions of this same analysis are in progress.
 ## About
 
 **Oyewo Lukman Segun** — Aviation Data Analyst
-[linkedin.com/in/oyewo-lukman-segun](https://linkedin.com/in/oyewo-lukman-segun)
+[linkedin.com/in/oyewo-lukman-segun](https://linkedin.com/in/oyewo-lukman)
