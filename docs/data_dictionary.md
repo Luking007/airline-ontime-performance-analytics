@@ -16,14 +16,20 @@ Synthetic dataset modeled on the U.S. DOT/BTS Airline On-Time Performance schema
 | UA | United Airlines |
 | WN | Southwest Airlines |
 
-*(WN is the standard IATA code for Southwest — confirm it matches what's actually in your raw data.)*
+
 
 ## Raw Field Schema
-[PLACEHOLDER — pending your column headers]
+Confirmed columns A–G below. Columns beyond G (destination, delay/time fields) still pending.
 
 | Field | Type | Description |
 |---|---|---|
-| *(pending)* | | |
+| FlightDate | Date (DD/MM/YYYY) | Scheduled date of the flight |
+| Airline | Text | Full carrier name |
+| CarrierCode | Text (2-char) | IATA-style carrier code — see Carriers table above |
+| FlightNumber | Number | Flight number as filed |
+| AircraftType | Text | Aircraft model/variant (e.g. B738, A320) |
+| Origin | Text (3-char) | Origin airport IATA code |
+| OriginCity | Text | City served by the origin airport |
 
 ## KPI Definitions
 
