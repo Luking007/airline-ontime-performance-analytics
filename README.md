@@ -13,8 +13,8 @@ originate and which carriers/routes need intervention.
 
 ## The headline finding
 
-**79.75%** fleet-wide on-time rate — but individual carriers range from **85.87%** down to
-**71.10%**, a **14.77-point gap** on largely overlapping route networks. Full findings and
+**78.00%** fleet-wide on-time rate — but individual carriers range from **83.9%** (Alaska) down to
+**69.7%** (JetBlue), a **14.2-point gap** on largely overlapping route networks. Full findings and
 recommended actions: [`docs/05_business_recommendations.md`](docs/05_business_recommendations.md)
 
 ## Dashboard
